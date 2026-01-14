@@ -17,7 +17,7 @@ __TAs:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
-This repository is a companion to the course __Applied Data Science for Social Scientists__ taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2025.
+This repository is a companion to the course __Applied Data Science for Social Scientists__ taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2026.
 
 It contains curated reference materials, slides and sample code. You can find the most updated version of the course syllabus [here](/syllabus/GR5069_Spring2026.pdf). Make sure to check regularly for updates.
 
